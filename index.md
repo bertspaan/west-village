@@ -120,7 +120,7 @@ The GitHub map above is not too useful for finding out whether the results are a
 
 First, run [gdal2tiles](http://www.gdal.org/gdal2tiles.html) to convert `west_village.tif` to a set of tiles:
 
-    gdal2tiles.py --profile=mercator -z 18-20 data/7187.tif tiles
+    gdal2tiles.py -p mercator -z 18-20 data/7187.tif tiles
 
 And afterwards, create a simple Leaflet map, and load the GeoJSON files with D3.js:
 
