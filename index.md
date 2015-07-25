@@ -190,8 +190,8 @@ Although using only ST_Distance will find the correct street for almost all addr
 
 ## Possible improvements
 
-1. Group addresses by house number similarity and distance:
-2. Find groups of addresses on a line:
+1. __Group addresses by house number similarity and distance__: addresses which are close together, both in distance and in the similarity of their house number are probably on the same street.
+2. __Compare the angle of streets and groups of addresses__: most streets in New York (and all streets in West Village) are completely straight, and the addresses on a street should be on a line with approximately the same angle as the street itself.
 
 ## GitHub
 
