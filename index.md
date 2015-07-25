@@ -7,7 +7,7 @@ Finding the closest street for a set of addresses seems like something PostGIS c
 
 It always helps to first view the files in QGIS, see where the streets and addresses are located, and think of an algorithm to link addresses to streets. To do this, we would need to convert `address.json` to something QGIS understands.
 
-## jq
+## Convert `addresses.json` to GeoJSON
 
 [jq](http://stedolan.github.io/jq/)! jq is great! With jq it's easy to convert `addresses.json` to GeoJSON. The following Bash script converts `addresses.json` to `addresses.geojson`:
 
@@ -39,13 +39,13 @@ The resulting GeoJSON file:
 
 <script src="https://embed.github.com/view/geojson/bertspaan/west-village/gh-pages/data/addresses.geojson?width=960&height=700"></script>
 
-## QGIS
+## View data in QGIS
 
 Now, let's use QGIS to have a look at the data! At first glance, it seems that for most addresses the closest street is indeed the correct street on which the address is located. A simple distance comparison might suffice for most addresses.
 
 ![](img/qgis.png)
 
-## PostGIS
+## Import into PostGIS
 
 Now, we can import both GeoJSON files into PostGIS, using [ogr2ogr](http://www.gdal.org/ogr2ogr.html). First, create a new database (let's name this database `westvillage`), run `CREATE EXTENSION postgis`, and afterwards, run ogr2ogr twice:
 
@@ -108,4 +108,79 @@ With ogr2ogr, export the view to a GeoJSON file:
     ogr2ogr -f "GeoJSON" results/results.geojson \
         PG:"dbname=westvillage user=postgres password=postgres" results
 
+The resulting GeoJSON file can be [downloaded from GitHub](https://github.com/bertspaan/west-village/blob/gh-pages/results/results.geojson), and is shown here:
+
 <script src="https://embed.github.com/view/geojson/bertspaan/west-village/gh-pages/results/results.geojson?width=960&height=700"></script>
+
+## Combine everything!
+
+The GitHub map above is not too useful for finding out whether the results are any good. We can use [Leaflet](http://leafletjs.com/) to view the three GeoJSON files (`addresses.geojson`, `west_village_centerlines.geojson` and `results.geojson`) on top of the West Village GeoTIFF file.
+
+First, run [gdal2tiles](http://www.gdal.org/gdal2tiles.html) to convert `west_village.tif` to a set of tiles:
+
+    gdal2tiles.py --profile=mercator -z 18-20 data/7187.tif tiles
+
+And afterwards, create a simple Leaflet map, and load the GeoJSON files with D3.js:
+
+    var map = L.map('map', {
+      minZoom: 17,
+      maxZoom: 20
+    });
+
+    L.tileLayer(baseUrl + '/tiles/{z}/{x}/{y}.png', {
+      tms: true,
+      maxZoom: 20,
+      bounds: [
+        [40.7352974, -74.0119905],
+        [40.7418289, -74.0048389]
+      ]
+    }).addTo(map);
+
+    map.setView([40.73795,-74.00790], 18);
+
+    var addressStyle = {
+      radius: 5,
+      fillColor: "#ffd400",
+      color: "#000",
+      weight: 1,
+      fillOpacity: 0.8
+    };
+
+    var streetStyle = {
+      color: "#000",
+      weight: 1
+    };
+
+    var geojsonLayers = [
+      {
+        url: 'data/addresses.geojson',
+        options: {
+          pointToLayer: function (feature, latlng) {
+            return L.circleMarker(latlng, addressStyle);
+          }
+        }
+      },
+      {
+        url: 'data/west_village_centerlines.geojson',
+        options: {
+          style: streetStyle
+        }
+      },
+      {
+        url: 'results/results.geojson',
+        options: {}
+      }
+    ]
+
+    geojsonLayers.forEach(function(layer) {
+      d3.json(baseUrl + '/' + layer.url, function(json) {
+        L.geoJson(json, layer.options).addTo(map);
+      });
+    });
+
+
+<div id="map"></div>
+
+## GitHub
+
+See [GitHub](https://github.com/bertspaan/west-village) for the source code of this page, and all GeoJSON files.
