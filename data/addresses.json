@@ -1,0 +1,2907 @@
+[
+  {
+    "id": 119666,
+    "addresses": [
+      {
+        "latitude": 40.74003465832258,
+        "longitude": -74.00743450437287,
+        "address": "28"
+      }
+    ]
+  },
+  {
+    "id": 119571,
+    "addresses": [
+      {
+        "latitude": 40.738074425497665,
+        "longitude": -74.00706969201566,
+        "address": "78"
+      }
+    ]
+  },
+  {
+    "id": 119777,
+    "addresses": [
+      {
+        "latitude": 40.736918199277,
+        "longitude": -74.00740820914476,
+        "address": "17"
+      }
+    ]
+  },
+  {
+    "id": 119348,
+    "addresses": [
+      {
+        "latitude": 40.739278390106996,
+        "longitude": -74.007933139801,
+        "address": "813"
+      }
+    ]
+  },
+  {
+    "id": 119350,
+    "addresses": [
+      {
+        "latitude": 40.739277882038,
+        "longitude": -74.006510004401,
+        "address": "834"
+      }
+    ]
+  },
+  {
+    "id": 119354,
+    "addresses": [
+      {
+        "latitude": 40.739280422382336,
+        "longitude": -74.00635667145234,
+        "address": "837"
+      }
+    ]
+  },
+  {
+    "id": 119361,
+    "addresses": [
+      {
+        "latitude": 40.739323438859,
+        "longitude": -74.00689423084249,
+        "address": "27"
+      }
+    ]
+  },
+  {
+    "id": 119363,
+    "addresses": [
+      {
+        "latitude": 40.73931954366767,
+        "longitude": -74.00714524090267,
+        "address": "33"
+      }
+    ]
+  },
+  {
+    "id": 119365,
+    "addresses": [
+      {
+        "latitude": 40.739319713023995,
+        "longitude": -74.006964638829,
+        "address": "29"
+      }
+    ]
+  },
+  {
+    "id": 119371,
+    "addresses": [
+      {
+        "latitude": 40.73921589761467,
+        "longitude": -74.00554060936001,
+        "address": "647"
+      }
+    ]
+  },
+  {
+    "id": 119373,
+    "addresses": [
+      {
+        "latitude": 40.739305995173,
+        "longitude": -74.00906793773201,
+        "address": "72"
+      }
+    ]
+  },
+  {
+    "id": 119375,
+    "addresses": [
+      {
+        "latitude": 40.73920175635125,
+        "longitude": -74.0081340819595,
+        "address": "812"
+      }
+    ]
+  },
+  {
+    "id": 119381,
+    "addresses": [
+      {
+        "latitude": 40.73915718251925,
+        "longitude": -74.00555029191251,
+        "address": "645"
+      }
+    ]
+  },
+  {
+    "id": 119382,
+    "addresses": [
+      {
+        "latitude": 40.73913392905266,
+        "longitude": -74.00814011693,
+        "address": "810"
+      }
+    ]
+  },
+  {
+    "id": 119395,
+    "addresses": [
+      {
+        "latitude": 40.73907905748,
+        "longitude": -74.00794744491567,
+        "address": "809"
+      }
+    ]
+  },
+  {
+    "id": 119404,
+    "addresses": [
+      {
+        "latitude": 40.73900318560134,
+        "longitude": -74.00636829435798,
+        "address": "829"
+      }
+    ]
+  },
+  {
+    "id": 119555,
+    "addresses": [
+      {
+        "latitude": 40.7380772622665,
+        "longitude": -74.007664695382,
+        "address": "92"
+      }
+    ]
+  },
+  {
+    "id": 119416,
+    "addresses": [
+      {
+        "latitude": 40.738862746186,
+        "longitude": -74.00816543027776,
+        "address": "802"
+      }
+    ]
+  },
+  {
+    "id": 119417,
+    "addresses": [
+      {
+        "latitude": 40.73882121128875,
+        "longitude": -74.007255155593,
+        "address": "75"
+      }
+    ]
+  },
+  {
+    "id": 119418,
+    "addresses": [
+      {
+        "latitude": 40.73882044918033,
+        "longitude": -74.006847962737,
+        "address": "65"
+      }
+    ]
+  },
+  {
+    "id": 119419,
+    "addresses": [
+      {
+        "latitude": 40.73882925576667,
+        "longitude": -74.00783210992834,
+        "address": "87"
+      }
+    ]
+  },
+  {
+    "id": 119420,
+    "addresses": [
+      {
+        "latitude": 40.73882281286075,
+        "longitude": -74.0071781076315,
+        "address": "73"
+      }
+    ]
+  },
+  {
+    "id": 119435,
+    "addresses": [
+      {
+        "latitude": 40.738812658738,
+        "longitude": -74.00604799389866,
+        "address": "51"
+      }
+    ]
+  },
+  {
+    "id": 119463,
+    "addresses": [
+      {
+        "latitude": 40.73860316323667,
+        "longitude": -74.00818638503567,
+        "address": "798"
+      }
+    ]
+  },
+  {
+    "id": 119471,
+    "addresses": [
+      {
+        "latitude": 40.738682275557665,
+        "longitude": -74.00728967137734,
+        "address": "80"
+      }
+    ]
+  },
+  {
+    "id": 119474,
+    "addresses": [
+      {
+        "latitude": 40.73868326951666,
+        "longitude": -74.00720067322267,
+        "address": "78"
+      }
+    ]
+  },
+  {
+    "id": 119482,
+    "addresses": [
+      {
+        "latitude": 40.738523528693996,
+        "longitude": -74.00653993360733,
+        "address": "826"
+      }
+    ]
+  },
+  {
+    "id": 119486,
+    "addresses": [
+      {
+        "latitude": 40.73849807652225,
+        "longitude": -74.0063836053015,
+        "address": "817"
+      }
+    ]
+  },
+  {
+    "id": 119493,
+    "addresses": [
+      {
+        "latitude": 40.73845985675433,
+        "longitude": -74.00654056594,
+        "address": "824"
+      }
+    ]
+  },
+  {
+    "id": 119495,
+    "addresses": [
+      {
+        "latitude": 40.738444305254326,
+        "longitude": -74.00820448994598,
+        "address": "792"
+      }
+    ]
+  },
+  {
+    "id": 119503,
+    "addresses": [
+      {
+        "latitude": 40.738403405190006,
+        "longitude": -74.00654036611267,
+        "address": "822"
+      }
+    ]
+  },
+  {
+    "id": 119511,
+    "addresses": [
+      {
+        "latitude": 40.73835556139767,
+        "longitude": -74.00568835437299,
+        "address": "627"
+      }
+    ]
+  },
+  {
+    "id": 119517,
+    "addresses": [
+      {
+        "latitude": 40.73829009718775,
+        "longitude": -74.00639237076226,
+        "address": "809"
+      }
+    ]
+  },
+  {
+    "id": 119518,
+    "addresses": [
+      {
+        "latitude": 40.738283583946334,
+        "longitude": -74.00570534169667,
+        "address": "625"
+      }
+    ]
+  },
+  {
+    "id": 119519,
+    "addresses": [
+      {
+        "latitude": 40.73818552512767,
+        "longitude": -74.007232412696,
+        "address": "79"
+      }
+    ]
+  },
+  {
+    "id": 119520,
+    "addresses": [
+      {
+        "latitude": 40.73818942038567,
+        "longitude": -74.00730259716534,
+        "address": "81"
+      }
+    ]
+  },
+  {
+    "id": 119521,
+    "addresses": [
+      {
+        "latitude": 40.738187388077336,
+        "longitude": -74.00715708732632,
+        "address": "77"
+      }
+    ]
+  },
+  {
+    "id": 119522,
+    "addresses": [
+      {
+        "latitude": 40.73819958192767,
+        "longitude": -74.00860838592068,
+        "address": "101"
+      }
+    ]
+  },
+  {
+    "id": 119526,
+    "addresses": [
+      {
+        "latitude": 40.73823379243999,
+        "longitude": -74.00821410119534,
+        "address": "784"
+      }
+    ]
+  },
+  {
+    "id": 119529,
+    "addresses": [
+      {
+        "latitude": 40.73819179141233,
+        "longitude": -74.00770068168634,
+        "address": "91"
+      }
+    ]
+  },
+  {
+    "id": 119534,
+    "addresses": [
+      {
+        "latitude": 40.738171637684005,
+        "longitude": -74.0058074332775,
+        "address": "59"
+      },
+      {
+        "latitude": 40.7382145701985,
+        "longitude": -74.0057174116375,
+        "address": "623"
+      }
+    ]
+  },
+  {
+    "id": 119562,
+    "addresses": [
+      {
+        "latitude": 40.7379695242434,
+        "longitude": -74.00959092378619,
+        "address": "502"
+      }
+    ]
+  },
+  {
+    "id": 119547,
+    "addresses": [
+      {
+        "latitude": 40.738025819351,
+        "longitude": -74.00639109313501,
+        "address": "807"
+      }
+    ]
+  },
+  {
+    "id": 119557,
+    "addresses": [
+      {
+        "latitude": 40.73796959198733,
+        "longitude": -74.005760550499,
+        "address": "619"
+      }
+    ]
+  },
+  {
+    "id": 119558,
+    "addresses": [
+      {
+        "latitude": 40.73806561881133,
+        "longitude": -74.00616087019468,
+        "address": "64"
+      }
+    ]
+  },
+  {
+    "id": 119563,
+    "addresses": [
+      {
+        "latitude": 40.73797077750434,
+        "longitude": -74.00804869830633,
+        "address": "779"
+      }
+    ]
+  },
+  {
+    "id": 119565,
+    "addresses": [
+      {
+        "latitude": 40.73808289346366,
+        "longitude": -74.00782048702267,
+        "address": "96"
+      }
+    ]
+  },
+  {
+    "id": 119566,
+    "addresses": [
+      {
+        "latitude": 40.738079167559,
+        "longitude": -74.007748514414,
+        "address": "94"
+      }
+    ]
+  },
+  {
+    "id": 119567,
+    "addresses": [
+      {
+        "latitude": 40.738077304606335,
+        "longitude": -74.007217437029,
+        "address": "82"
+      }
+    ]
+  },
+  {
+    "id": 119574,
+    "addresses": [
+      {
+        "latitude": 40.738075780372334,
+        "longitude": -74.00712177157399,
+        "address": "80"
+      }
+    ]
+  },
+  {
+    "id": 119575,
+    "addresses": [
+      {
+        "latitude": 40.738071377029335,
+        "longitude": -74.00687009096133,
+        "address": "70"
+      }
+    ]
+  },
+  {
+    "id": 119576,
+    "addresses": [
+      {
+        "latitude": 40.738069514077,
+        "longitude": -74.00702342391,
+        "address": "76"
+      }
+    ]
+  },
+  {
+    "id": 119582,
+    "addresses": [
+      {
+        "latitude": 40.73790341541075,
+        "longitude": -74.00805095074625,
+        "address": "777"
+      }
+    ]
+  },
+  {
+    "id": 119585,
+    "addresses": [
+      {
+        "latitude": 40.738084561141996,
+        "longitude": -74.00865404941466,
+        "address": "126"
+      }
+    ]
+  },
+  {
+    "id": 119596,
+    "addresses": [
+      {
+        "latitude": 40.73786374215266,
+        "longitude": -74.006561413407,
+        "address": "810"
+      }
+    ]
+  },
+  {
+    "id": 119605,
+    "addresses": [
+      {
+        "latitude": 40.73780480489167,
+        "longitude": -74.00656566023834,
+        "address": "808"
+      }
+    ]
+  },
+  {
+    "id": 119609,
+    "addresses": [
+      {
+        "latitude": 40.7377674609965,
+        "longitude": -74.00960639119134,
+        "address": "499"
+      }
+    ]
+  },
+  {
+    "id": 119613,
+    "addresses": [
+      {
+        "latitude": 40.737775505601334,
+        "longitude": -74.00825388729567,
+        "address": "774"
+      }
+    ]
+  },
+  {
+    "id": 119614,
+    "addresses": [
+      {
+        "latitude": 40.7377859477525,
+        "longitude": -74.00640264060401,
+        "address": "799"
+      }
+    ]
+  },
+  {
+    "id": 119616,
+    "addresses": [
+      {
+        "latitude": 40.73774925478167,
+        "longitude": -74.006567001343,
+        "address": "806"
+      }
+    ]
+  },
+  {
+    "id": 119630,
+    "addresses": [
+      {
+        "latitude": 40.73758429777967,
+        "longitude": -74.00786362588433,
+        "address": "367"
+      }
+    ]
+  },
+  {
+    "id": 119638,
+    "addresses": [
+      {
+        "latitude": 40.737581552105,
+        "longitude": -74.00635137006934,
+        "address": "329"
+      }
+    ]
+  },
+  {
+    "id": 119639,
+    "addresses": [
+      {
+        "latitude": 40.73760174191734,
+        "longitude": -74.00691345334033,
+        "address": "97"
+      }
+    ]
+  },
+  {
+    "id": 119642,
+    "addresses": [
+      {
+        "latitude": 40.73757752335567,
+        "longitude": -74.007276445627,
+        "address": "349"
+      }
+    ]
+  },
+  {
+    "id": 119647,
+    "addresses": [
+      {
+        "latitude": 40.73757752335566,
+        "longitude": -74.00720290839699,
+        "address": "347"
+      },
+      {
+        "latitude": 40.737604282325,
+        "longitude": -74.00720112025766,
+        "address": "105"
+      }
+    ]
+  },
+  {
+    "id": 119648,
+    "addresses": [
+      {
+        "latitude": 40.73763950930667,
+        "longitude": -74.00656811892965,
+        "address": "802"
+      }
+    ]
+  },
+  {
+    "id": 119653,
+    "addresses": [
+      {
+        "latitude": 40.737568885965004,
+        "longitude": -74.00603950023667,
+        "address": "321"
+      },
+      {
+        "latitude": 40.73759636471975,
+        "longitude": -74.006039276719,
+        "address": "10"
+      }
+    ]
+  },
+  {
+    "id": 119664,
+    "addresses": [
+      {
+        "latitude": 40.73744419409075,
+        "longitude": -74.00655560195425,
+        "address": "798"
+      },
+      {
+        "latitude": 40.73748810089967,
+        "longitude": -74.00660209357734,
+        "address": "328"
+      }
+    ]
+  },
+  {
+    "id": 119672,
+    "addresses": [
+      {
+        "latitude": 40.73740596084817,
+        "longitude": -74.0080999955535,
+        "address": "763"
+      }
+    ]
+  },
+  {
+    "id": 119661,
+    "addresses": [
+      {
+        "latitude": 40.7374613418835,
+        "longitude": -74.00809787213825,
+        "address": "765"
+      },
+      {
+        "latitude": 40.737499617435,
+        "longitude": -74.007999300957,
+        "address": "366"
+      }
+    ]
+  },
+  {
+    "id": 119769,
+    "addresses": [
+      {
+        "latitude": 40.736916166929596,
+        "longitude": -74.00781556963919,
+        "address": "27"
+      }
+    ]
+  },
+  {
+    "id": 119774,
+    "addresses": [
+      {
+        "latitude": 40.7369179452335,
+        "longitude": -74.00732472538951,
+        "address": "15"
+      }
+    ]
+  },
+  {
+    "id": 119788,
+    "addresses": [
+      {
+        "latitude": 40.739911779536335,
+        "longitude": -74.00714769959433,
+        "address": "20"
+      }
+    ]
+  },
+  {
+    "id": 119791,
+    "addresses": [
+      {
+        "latitude": 40.736699212308,
+        "longitude": -74.00597130373068,
+        "address": "587"
+      }
+    ]
+  },
+  {
+    "id": 119798,
+    "addresses": [
+      {
+        "latitude": 40.736644469599746,
+        "longitude": -74.00835744912,
+        "address": "746"
+      }
+    ]
+  },
+  {
+    "id": 119801,
+    "addresses": [
+      {
+        "latitude": 40.736651834221746,
+        "longitude": -74.00665501132625,
+        "address": "776"
+      }
+    ]
+  },
+  {
+    "id": 119802,
+    "addresses": [
+      {
+        "latitude": 40.736621266062336,
+        "longitude": -74.009083688111,
+        "address": "3"
+      }
+    ]
+  },
+  {
+    "id": 119810,
+    "addresses": [
+      {
+        "latitude": 40.736578605873746,
+        "longitude": -74.009088813419,
+        "address": "2"
+      }
+    ]
+  },
+  {
+    "id": 119817,
+    "addresses": [
+      {
+        "latitude": 40.736532729617004,
+        "longitude": -74.00909297168266,
+        "address": "1"
+      }
+    ]
+  },
+  {
+    "id": 119825,
+    "addresses": [
+      {
+        "latitude": 40.73643500694467,
+        "longitude": -74.00707773864266,
+        "address": "97"
+      }
+    ]
+  },
+  {
+    "id": 119827,
+    "addresses": [
+      {
+        "latitude": 40.73641739313734,
+        "longitude": -74.00722257792933,
+        "address": "101"
+      }
+    ]
+  },
+  {
+    "id": 119828,
+    "addresses": [
+      {
+        "latitude": 40.736440087849495,
+        "longitude": -74.00818973779676,
+        "address": "737"
+      }
+    ]
+  },
+  {
+    "id": 119834,
+    "addresses": [
+      {
+        "latitude": 40.73635218813775,
+        "longitude": -74.00769520550975,
+        "address": "113"
+      }
+    ]
+  },
+  {
+    "id": 119838,
+    "addresses": [
+      {
+        "latitude": 40.736330340215,
+        "longitude": -74.00784127414234,
+        "address": "117"
+      }
+    ]
+  },
+  {
+    "id": 119839,
+    "addresses": [
+      {
+        "latitude": 40.73635540604833,
+        "longitude": -74.00837704539266,
+        "address": "736"
+      }
+    ]
+  },
+  {
+    "id": 119524,
+    "addresses": [
+      {
+        "latitude": 40.7381856098075,
+        "longitude": -74.006927087903,
+        "address": "71"
+      }
+    ]
+  },
+  {
+    "id": 119531,
+    "addresses": [
+      {
+        "latitude": 40.73821863481375,
+        "longitude": -74.0063968487085,
+        "address": "807"
+      }
+    ]
+  },
+  {
+    "id": 119532,
+    "addresses": [
+      {
+        "latitude": 40.738220159044744,
+        "longitude": -74.0065430290995,
+        "address": "816"
+      }
+    ]
+  },
+  {
+    "id": 119546,
+    "addresses": [
+      {
+        "latitude": 40.738032763088334,
+        "longitude": -74.008045345545,
+        "address": "781"
+      }
+    ]
+  },
+  {
+    "id": 119552,
+    "addresses": [
+      {
+        "latitude": 40.737999229911,
+        "longitude": -74.008236899972,
+        "address": "780"
+      }
+    ]
+  },
+  {
+    "id": 119561,
+    "addresses": [
+      {
+        "latitude": 40.738064941374,
+        "longitude": -74.00600038468832,
+        "address": "60"
+      }
+    ]
+  },
+  {
+    "id": 119564,
+    "addresses": [
+      {
+        "latitude": 40.73797535021367,
+        "longitude": -74.006399139762,
+        "address": "805"
+      }
+    ]
+  },
+  {
+    "id": 119573,
+    "addresses": [
+      {
+        "latitude": 40.738070530232996,
+        "longitude": -74.0069698356095,
+        "address": "74"
+      }
+    ]
+  },
+  {
+    "id": 119577,
+    "addresses": [
+      {
+        "latitude": 40.73807527229433,
+        "longitude": -74.00692328810668,
+        "address": "72"
+      }
+    ]
+  },
+  {
+    "id": 119578,
+    "addresses": [
+      {
+        "latitude": 40.737918276007996,
+        "longitude": -74.00655671954166,
+        "address": "812"
+      }
+    ]
+  },
+  {
+    "id": 119584,
+    "addresses": [
+      {
+        "latitude": 40.7378986726165,
+        "longitude": -74.0082448907195,
+        "address": "778"
+      }
+    ]
+  },
+  {
+    "id": 119610,
+    "addresses": [
+      {
+        "latitude": 40.737791510128666,
+        "longitude": -74.00579119831299,
+        "address": "615"
+      }
+    ]
+  },
+  {
+    "id": 119617,
+    "addresses": [
+      {
+        "latitude": 40.73773282684367,
+        "longitude": -74.00580301880866,
+        "address": "613"
+      }
+    ]
+  },
+  {
+    "id": 119621,
+    "addresses": [
+      {
+        "latitude": 40.73771512870025,
+        "longitude": -74.008253775537,
+        "address": "772"
+      }
+    ]
+  },
+  {
+    "id": 119628,
+    "addresses": [
+      {
+        "latitude": 40.737608346978,
+        "longitude": -74.00794230401534,
+        "address": "125"
+      }
+    ]
+  },
+  {
+    "id": 119629,
+    "addresses": [
+      {
+        "latitude": 40.73765153389667,
+        "longitude": -74.009866565466,
+        "address": "493"
+      }
+    ]
+  },
+  {
+    "id": 119626,
+    "addresses": [
+      {
+        "latitude": 40.73758141864967,
+        "longitude": -74.008021429181,
+        "address": "371"
+      },
+      {
+        "latitude": 40.73760733081466,
+        "longitude": -74.00801941752434,
+        "address": "127"
+      }
+    ]
+  },
+  {
+    "id": 119633,
+    "addresses": [
+      {
+        "latitude": 40.73758188439125,
+        "longitude": -74.00848025456074,
+        "address": "377"
+      },
+      {
+        "latitude": 40.737608177617254,
+        "longitude": -74.008478075266,
+        "address": "133"
+      }
+    ]
+  },
+  {
+    "id": 119413,
+    "addresses": [
+      {
+        "latitude": 40.738902587485,
+        "longitude": -74.00559850037101,
+        "address": "639"
+      }
+    ]
+  },
+  {
+    "id": 119359,
+    "addresses": [
+      {
+        "latitude": 40.739270938430664,
+        "longitude": -74.00812782347167,
+        "address": "814"
+      }
+    ]
+  },
+  {
+    "id": 119370,
+    "addresses": [
+      {
+        "latitude": 40.73930582581733,
+        "longitude": -74.00869131088267,
+        "address": "62"
+      }
+    ]
+  },
+  {
+    "id": 119425,
+    "addresses": [
+      {
+        "latitude": 40.738825191188,
+        "longitude": -74.007653966546,
+        "address": "85"
+      }
+    ]
+  },
+  {
+    "id": 119431,
+    "addresses": [
+      {
+        "latitude": 40.73881384423999,
+        "longitude": -74.005985632539,
+        "address": "49"
+      }
+    ]
+  },
+  {
+    "id": 119433,
+    "addresses": [
+      {
+        "latitude": 40.73880876351633,
+        "longitude": -74.005874991417,
+        "address": "45"
+      }
+    ]
+  },
+  {
+    "id": 119678,
+    "addresses": [
+      {
+        "latitude": 40.737512996936665,
+        "longitude": -74.007670730352,
+        "address": "358"
+      }
+    ]
+  },
+  {
+    "id": 119541,
+    "addresses": [
+      {
+        "latitude": 40.7380461424828,
+        "longitude": -74.0095819383862,
+        "address": "503"
+      }
+    ]
+  },
+  {
+    "id": 119426,
+    "addresses": [
+      {
+        "latitude": 40.738820068126,
+        "longitude": -74.00709925219425,
+        "address": "71"
+      }
+    ]
+  },
+  {
+    "id": 119353,
+    "addresses": [
+      {
+        "latitude": 40.739320221092335,
+        "longitude": -74.007061198354,
+        "address": "31"
+      }
+    ]
+  },
+  {
+    "id": 119460,
+    "addresses": [
+      {
+        "latitude": 40.73868072915,
+        "longitude": -74.006847292185,
+        "address": "70"
+      }
+    ]
+  },
+  {
+    "id": 119743,
+    "addresses": [
+      {
+        "latitude": 40.7370287588796,
+        "longitude": -74.0069902539252,
+        "address": "8"
+      }
+    ]
+  },
+  {
+    "id": 119440,
+    "addresses": [
+      {
+        "latitude": 40.738691906763336,
+        "longitude": -74.00826551020167,
+        "address": "94"
+      }
+    ]
+  },
+  {
+    "id": 119473,
+    "addresses": [
+      {
+        "latitude": 40.73868089850733,
+        "longitude": -74.00711730122534,
+        "address": "76"
+      }
+    ]
+  },
+  {
+    "id": 119504,
+    "addresses": [
+      {
+        "latitude": 40.738396376812,
+        "longitude": -74.00820717215568,
+        "address": "790"
+      }
+    ]
+  },
+  {
+    "id": 119637,
+    "addresses": [
+      {
+        "latitude": 40.737609701862,
+        "longitude": -74.00780685245967,
+        "address": "121"
+      },
+      {
+        "latitude": 40.73758226545234,
+        "longitude": -74.00780908763433,
+        "address": "365"
+      }
+    ]
+  },
+  {
+    "id": 119651,
+    "addresses": [
+      {
+        "latitude": 40.737577523356,
+        "longitude": -74.006849080324,
+        "address": "337"
+      },
+      {
+        "latitude": 40.73759970959066,
+        "longitude": -74.00684528052834,
+        "address": "95"
+      }
+    ]
+  },
+  {
+    "id": 119655,
+    "addresses": [
+      {
+        "latitude": 40.737654243663,
+        "longitude": -74.00826819241034,
+        "address": "770"
+      }
+    ]
+  },
+  {
+    "id": 119656,
+    "addresses": [
+      {
+        "latitude": 40.73756905532566,
+        "longitude": -74.00611504912366,
+        "address": "323"
+      },
+      {
+        "latitude": 40.737598185346,
+        "longitude": -74.00612063705934,
+        "address": "8"
+      }
+    ]
+  },
+  {
+    "id": 119657,
+    "addresses": [
+      {
+        "latitude": 40.73765542918567,
+        "longitude": -74.00581911206233,
+        "address": "611"
+      }
+    ]
+  },
+  {
+    "id": 119712,
+    "addresses": [
+      {
+        "latitude": 40.73749487533234,
+        "longitude": -74.00889873504633,
+        "address": "144"
+      },
+      {
+        "latitude": 40.73749436724967,
+        "longitude": -74.00903999805433,
+        "address": "148"
+      }
+    ]
+  },
+  {
+    "id": 119766,
+    "addresses": [
+      {
+        "latitude": 40.736916505654335,
+        "longitude": -74.00725029408933,
+        "address": "13"
+      }
+    ]
+  },
+  {
+    "id": 119824,
+    "addresses": [
+      {
+        "latitude": 40.73644483002734,
+        "longitude": -74.00701403617867,
+        "address": "95"
+      }
+    ]
+  },
+  {
+    "id": 119842,
+    "addresses": [
+      {
+        "latitude": 40.736291386535335,
+        "longitude": -74.00838263332867,
+        "address": "734"
+      }
+    ]
+  },
+  {
+    "id": 119844,
+    "addresses": [
+      {
+        "latitude": 40.736205010904,
+        "longitude": -74.008742272854,
+        "address": "133"
+      }
+    ]
+  },
+  {
+    "id": 119771,
+    "addresses": [
+      {
+        "latitude": 40.7369209937545,
+        "longitude": -74.00692926719775,
+        "address": "5"
+      }
+    ]
+  },
+  {
+    "id": 119349,
+    "addresses": [
+      {
+        "latitude": 40.73928228631933,
+        "longitude": -74.00552628949066,
+        "address": "649"
+      }
+    ]
+  },
+  {
+    "id": 119372,
+    "addresses": [
+      {
+        "latitude": 40.739309382296994,
+        "longitude": -74.00861889123934,
+        "address": "60"
+      }
+    ]
+  },
+  {
+    "id": 119423,
+    "addresses": [
+      {
+        "latitude": 40.73882011046533,
+        "longitude": -74.00701336562634,
+        "address": "69"
+      }
+    ]
+  },
+  {
+    "id": 119428,
+    "addresses": [
+      {
+        "latitude": 40.738815707172,
+        "longitude": -74.00632157921767,
+        "address": "59"
+      }
+    ]
+  },
+  {
+    "id": 119434,
+    "addresses": [
+      {
+        "latitude": 40.738816215244334,
+        "longitude": -74.00616958737368,
+        "address": "55"
+      }
+    ]
+  },
+  {
+    "id": 119438,
+    "addresses": [
+      {
+        "latitude": 40.738845175361,
+        "longitude": -74.00561213493334,
+        "address": "637"
+      }
+    ]
+  },
+  {
+    "id": 119466,
+    "addresses": [
+      {
+        "latitude": 40.738686317957,
+        "longitude": -74.007020071149,
+        "address": "74"
+      }
+    ]
+  },
+  {
+    "id": 119479,
+    "addresses": [
+      {
+        "latitude": 40.73855237394,
+        "longitude": -74.00819377854525,
+        "address": "796"
+      }
+    ]
+  },
+  {
+    "id": 119512,
+    "addresses": [
+      {
+        "latitude": 40.73834353693467,
+        "longitude": -74.00654219090966,
+        "address": "820"
+      }
+    ]
+  },
+  {
+    "id": 119525,
+    "addresses": [
+      {
+        "latitude": 40.73818560980734,
+        "longitude": -74.00700457088966,
+        "address": "73"
+      }
+    ]
+  },
+  {
+    "id": 119632,
+    "addresses": [
+      {
+        "latitude": 40.7376550227208,
+        "longitude": -74.0096142590046,
+        "address": "492"
+      }
+    ]
+  },
+  {
+    "id": 119652,
+    "addresses": [
+      {
+        "latitude": 40.737597654063,
+        "longitude": -74.00595327638,
+        "address": "12"
+      }
+    ]
+  },
+  {
+    "id": 119654,
+    "addresses": [
+      {
+        "latitude": 40.73760107497767,
+        "longitude": -74.00619831204267,
+        "address": "6"
+      }
+    ]
+  },
+  {
+    "id": 119775,
+    "addresses": [
+      {
+        "latitude": 40.7369206126895,
+        "longitude": -74.0070918761195,
+        "address": "9"
+      }
+    ]
+  },
+  {
+    "id": 119745,
+    "addresses": [
+      {
+        "latitude": 40.7370294702,
+        "longitude": -74.007064048201,
+        "address": "10"
+      }
+    ]
+  },
+  {
+    "id": 119724,
+    "addresses": [
+      {
+        "latitude": 40.739996456810665,
+        "longitude": -74.00734864175332,
+        "address": "26"
+      }
+    ]
+  },
+  {
+    "id": 119740,
+    "addresses": [
+      {
+        "latitude": 40.737029089135504,
+        "longitude": -74.0071979910135,
+        "address": "14"
+      }
+    ]
+  },
+  {
+    "id": 119608,
+    "addresses": [
+      {
+        "latitude": 40.737767003724194,
+        "longitude": -74.0096075534818,
+        "address": "499"
+      }
+    ]
+  },
+  {
+    "id": 119623,
+    "addresses": [
+      {
+        "latitude": 40.737691947512374,
+        "longitude": -74.00657027028501,
+        "address": "804"
+      }
+    ]
+  },
+  {
+    "id": 119772,
+    "addresses": [
+      {
+        "latitude": 40.73691807225525,
+        "longitude": -74.0070083923635,
+        "address": "7"
+      }
+    ]
+  },
+  {
+    "id": 119544,
+    "addresses": [
+      {
+        "latitude": 40.73804585215229,
+        "longitude": -74.00958314538028,
+        "address": "503"
+      }
+    ]
+  },
+  {
+    "id": 119730,
+    "addresses": [
+      {
+        "latitude": 40.737028454028,
+        "longitude": -74.0077379196882,
+        "address": "30"
+      }
+    ]
+  },
+  {
+    "id": 119807,
+    "addresses": [
+      {
+        "latitude": 40.73658044769775,
+        "longitude": -74.00835871696475,
+        "address": "744"
+      }
+    ]
+  },
+  {
+    "id": 119819,
+    "addresses": [
+      {
+        "latitude": 40.736526082108504,
+        "longitude": -74.0083634108305,
+        "address": "742"
+      }
+    ]
+  },
+  {
+    "id": 119674,
+    "addresses": [
+      {
+        "latitude": 40.737477991580334,
+        "longitude": -74.00615280434533,
+        "address": "7"
+      },
+      {
+        "latitude": 40.73749882296166,
+        "longitude": -74.006150569171,
+        "address": "320"
+      }
+    ]
+  },
+  {
+    "id": 119675,
+    "addresses": [
+      {
+        "latitude": 40.73747861669267,
+        "longitude": -74.006084650755,
+        "address": "9"
+      },
+      {
+        "latitude": 40.73749995615666,
+        "longitude": -74.00608353316767,
+        "address": "318"
+      }
+    ]
+  },
+  {
+    "id": 119680,
+    "addresses": [
+      {
+        "latitude": 40.737483528157334,
+        "longitude": -74.00675922632234,
+        "address": "94"
+      },
+      {
+        "latitude": 40.737504359537,
+        "longitude": -74.00675788521767,
+        "address": "332"
+      }
+    ]
+  },
+  {
+    "id": 119681,
+    "addresses": [
+      {
+        "latitude": 40.73748471368333,
+        "longitude": -74.00725498795532,
+        "address": "106"
+      },
+      {
+        "latitude": 40.737508932278,
+        "longitude": -74.007260352373,
+        "address": "346"
+      }
+    ]
+  },
+  {
+    "id": 119683,
+    "addresses": [
+      {
+        "latitude": 40.73748403623933,
+        "longitude": -74.00716871023165,
+        "address": "104"
+      },
+      {
+        "latitude": 40.73750723867,
+        "longitude": -74.00717653334168,
+        "address": "344"
+      }
+    ]
+  },
+  {
+    "id": 119684,
+    "addresses": [
+      {
+        "latitude": 40.73748705086221,
+        "longitude": -74.0062951594592,
+        "address": "3"
+      }
+    ]
+  },
+  {
+    "id": 119688,
+    "addresses": [
+      {
+        "latitude": 40.737486746013,
+        "longitude": -74.00734953582274,
+        "address": "108"
+      },
+      {
+        "latitude": 40.737508847597496,
+        "longitude": -74.0073480270805,
+        "address": "348"
+      }
+    ]
+  },
+  {
+    "id": 119689,
+    "addresses": [
+      {
+        "latitude": 40.73749165510725,
+        "longitude": -74.00707684585875,
+        "address": "340"
+      }
+    ]
+  },
+  {
+    "id": 119690,
+    "addresses": [
+      {
+        "latitude": 40.737493520446,
+        "longitude": -74.006982296705,
+        "address": "338"
+      }
+    ]
+  },
+  {
+    "id": 119692,
+    "addresses": [
+      {
+        "latitude": 40.737393766852335,
+        "longitude": -74.00585219264033,
+        "address": "609"
+      }
+    ]
+  },
+  {
+    "id": 119693,
+    "addresses": [
+      {
+        "latitude": 40.73749551043575,
+        "longitude": -74.00841336697326,
+        "address": "376"
+      }
+    ]
+  },
+  {
+    "id": 119696,
+    "addresses": [
+      {
+        "latitude": 40.737347658286,
+        "longitude": -74.00586275383824,
+        "address": "607"
+      }
+    ]
+  },
+  {
+    "id": 119698,
+    "addresses": [
+      {
+        "latitude": 40.737497288724,
+        "longitude": -74.00848746299725,
+        "address": "378"
+      }
+    ]
+  },
+  {
+    "id": 119702,
+    "addresses": [
+      {
+        "latitude": 40.737308789883,
+        "longitude": -74.0058694593605,
+        "address": "605"
+      }
+    ]
+  },
+  {
+    "id": 119751,
+    "addresses": [
+      {
+        "latitude": 40.73999688019675,
+        "longitude": -74.00734886527074,
+        "address": "26"
+      }
+    ]
+  },
+  {
+    "id": 119733,
+    "addresses": [
+      {
+        "latitude": 40.737033788931,
+        "longitude": -74.00836827233451,
+        "address": "34"
+      },
+      {
+        "latitude": 40.737078627501,
+        "longitude": -74.0083104372025,
+        "address": "754"
+      }
+    ]
+  },
+  {
+    "id": 119737,
+    "addresses": [
+      {
+        "latitude": 40.737027691899,
+        "longitude": -74.00746487081025,
+        "address": "22"
+      }
+    ]
+  },
+  {
+    "id": 119742,
+    "addresses": [
+      {
+        "latitude": 40.737030232329005,
+        "longitude": -74.00668451562525,
+        "address": "2"
+      },
+      {
+        "latitude": 40.73707485919933,
+        "longitude": -74.00657013058701,
+        "address": "786"
+      }
+    ]
+  },
+  {
+    "id": 119739,
+    "addresses": [
+      {
+        "latitude": 40.73702947020001,
+        "longitude": -74.00727376341825,
+        "address": "16"
+      }
+    ]
+  },
+  {
+    "id": 119738,
+    "addresses": [
+      {
+        "latitude": 40.737027691899,
+        "longitude": -74.00734534487125,
+        "address": "18"
+      }
+    ]
+  },
+  {
+    "id": 119749,
+    "addresses": [
+      {
+        "latitude": 40.73704103881,
+        "longitude": -74.00641489930167,
+        "address": "783"
+      }
+    ]
+  },
+  {
+    "id": 119750,
+    "addresses": [
+      {
+        "latitude": 40.737027691899,
+        "longitude": -74.00591757148474,
+        "address": "597"
+      }
+    ]
+  },
+  {
+    "id": 119753,
+    "addresses": [
+      {
+        "latitude": 40.739961061723335,
+        "longitude": -74.007265716791,
+        "address": "24"
+      }
+    ]
+  },
+  {
+    "id": 119756,
+    "addresses": [
+      {
+        "latitude": 40.736879415304,
+        "longitude": -74.009686857462,
+        "address": "470"
+      }
+    ]
+  },
+  {
+    "id": 119758,
+    "addresses": [
+      {
+        "latitude": 40.736911932871834,
+        "longitude": -74.00755640119318,
+        "address": "21"
+      }
+    ]
+  },
+  {
+    "id": 119759,
+    "addresses": [
+      {
+        "latitude": 40.736914642669,
+        "longitude": -74.00866147130725,
+        "address": "39"
+      }
+    ]
+  },
+  {
+    "id": 119760,
+    "addresses": [
+      {
+        "latitude": 40.73683741342167,
+        "longitude": -74.00594696402533,
+        "address": "591"
+      }
+    ]
+  },
+  {
+    "id": 119762,
+    "addresses": [
+      {
+        "latitude": 40.736916505654,
+        "longitude": -74.00898925960034,
+        "address": "51"
+      }
+    ]
+  },
+  {
+    "id": 119763,
+    "addresses": [
+      {
+        "latitude": 40.736916505654335,
+        "longitude": -74.00914929807168,
+        "address": "55"
+      }
+    ]
+  },
+  {
+    "id": 119764,
+    "addresses": [
+      {
+        "latitude": 40.73691955417533,
+        "longitude": -74.00717206299299,
+        "address": "11"
+      }
+    ]
+  },
+  {
+    "id": 119765,
+    "addresses": [
+      {
+        "latitude": 40.73691853800133,
+        "longitude": -74.009070172906,
+        "address": "53"
+      }
+    ]
+  },
+  {
+    "id": 119767,
+    "addresses": [
+      {
+        "latitude": 40.73691735246567,
+        "longitude": -74.00923691689967,
+        "address": "57"
+      }
+    ]
+  },
+  {
+    "id": 119768,
+    "addresses": [
+      {
+        "latitude": 40.736818004477996,
+        "longitude": -74.0081540644168,
+        "address": "751"
+      }
+    ]
+  },
+  {
+    "id": 119744,
+    "addresses": [
+      {
+        "latitude": 40.737027268494,
+        "longitude": -74.00740239769199,
+        "address": "20"
+      }
+    ]
+  },
+  {
+    "id": 119841,
+    "addresses": [
+      {
+        "latitude": 40.73632170266167,
+        "longitude": -74.00819912552834,
+        "address": "733"
+      },
+      {
+        "latitude": 40.736294604448666,
+        "longitude": -74.008069485426,
+        "address": "125"
+      }
+    ]
+  },
+  {
+    "id": 119843,
+    "addresses": [
+      {
+        "latitude": 40.73621754384566,
+        "longitude": -74.008654654026,
+        "address": "131"
+      }
+    ]
+  },
+  {
+    "id": 119851,
+    "addresses": [
+      {
+        "latitude": 40.739790013427665,
+        "longitude": -74.00686584413033,
+        "address": "12"
+      }
+    ]
+  },
+  {
+    "id": 119856,
+    "addresses": [
+      {
+        "latitude": 40.739594746865,
+        "longitude": -74.00652028620233,
+        "address": "7"
+      }
+    ]
+  },
+  {
+    "id": 119858,
+    "addresses": [
+      {
+        "latitude": 40.739551899918666,
+        "longitude": -74.00656029582,
+        "address": "5"
+      }
+    ]
+  },
+  {
+    "id": 119859,
+    "addresses": [
+      {
+        "latitude": 40.73950481905266,
+        "longitude": -74.00658935308468,
+        "address": "3"
+      }
+    ]
+  },
+  {
+    "id": 119640,
+    "addresses": [
+      {
+        "latitude": 40.73758446714,
+        "longitude": -74.00768682360633,
+        "address": "361"
+      },
+      {
+        "latitude": 40.73760893973975,
+        "longitude": -74.00768095627424,
+        "address": "117"
+      },
+      {
+        "latitude": 40.73758446714,
+        "longitude": -74.00774985551834,
+        "address": "363"
+      },
+      {
+        "latitude": 40.73760881271925,
+        "longitude": -74.00774549692875,
+        "address": "119"
+      }
+    ]
+  },
+  {
+    "id": 119826,
+    "addresses": [
+      {
+        "latitude": 40.736429079222,
+        "longitude": -74.00715038180367,
+        "address": "99"
+      }
+    ]
+  },
+  {
+    "id": 119548,
+    "addresses": [
+      {
+        "latitude": 40.73801964856867,
+        "longitude": -74.00575126134066,
+        "address": "621"
+      }
+    ]
+  },
+  {
+    "id": 119356,
+    "addresses": [
+      {
+        "latitude": 40.73926479943567,
+        "longitude": -74.00950478554033,
+        "address": "534"
+      }
+    ]
+  },
+  {
+    "id": 119358,
+    "addresses": [
+      {
+        "latitude": 40.7393087048725,
+        "longitude": -74.0083820186555,
+        "address": "54"
+      }
+    ]
+  },
+  {
+    "id": 119366,
+    "addresses": [
+      {
+        "latitude": 40.7393071806665,
+        "longitude": -74.008473046124,
+        "address": "56"
+      }
+    ]
+  },
+  {
+    "id": 119367,
+    "addresses": [
+      {
+        "latitude": 40.739312091996,
+        "longitude": -74.00854200124733,
+        "address": "58"
+      }
+    ]
+  },
+  {
+    "id": 119368,
+    "addresses": [
+      {
+        "latitude": 40.73930464032367,
+        "longitude": -74.00891080498701,
+        "address": "68"
+      }
+    ]
+  },
+  {
+    "id": 119369,
+    "addresses": [
+      {
+        "latitude": 40.73930447096767,
+        "longitude": -74.00883793830866,
+        "address": "66"
+      }
+    ]
+  },
+  {
+    "id": 119374,
+    "addresses": [
+      {
+        "latitude": 40.739300914487,
+        "longitude": -74.00914102792733,
+        "address": "74"
+      }
+    ]
+  },
+  {
+    "id": 119393,
+    "addresses": [
+      {
+        "latitude": 40.73909074309667,
+        "longitude": -74.009516313672,
+        "address": "528"
+      }
+    ]
+  },
+  {
+    "id": 119394,
+    "addresses": [
+      {
+        "latitude": 40.739090404383326,
+        "longitude": -74.00556519627533,
+        "address": "643"
+      }
+    ]
+  },
+  {
+    "id": 119401,
+    "addresses": [
+      {
+        "latitude": 40.73901876644033,
+        "longitude": -74.00557324290266,
+        "address": "641"
+      }
+    ]
+  },
+  {
+    "id": 119408,
+    "addresses": [
+      {
+        "latitude": 40.738932733064665,
+        "longitude": -74.00796264409999,
+        "address": "801"
+      }
+    ]
+  },
+  {
+    "id": 119421,
+    "addresses": [
+      {
+        "latitude": 40.738823497614,
+        "longitude": -74.007585123181,
+        "address": "83"
+      }
+    ]
+  },
+  {
+    "id": 119422,
+    "addresses": [
+      {
+        "latitude": 40.738820449180004,
+        "longitude": -74.00733903050434,
+        "address": "77"
+      }
+    ]
+  },
+  {
+    "id": 119429,
+    "addresses": [
+      {
+        "latitude": 40.73885855459201,
+        "longitude": -74.00652721524267,
+        "address": "832"
+      }
+    ]
+  },
+  {
+    "id": 119432,
+    "addresses": [
+      {
+        "latitude": 40.738812955113005,
+        "longitude": -74.005928132683,
+        "address": "47"
+      }
+    ]
+  },
+  {
+    "id": 119436,
+    "addresses": [
+      {
+        "latitude": 40.738815368457004,
+        "longitude": -74.006239604205,
+        "address": "57"
+      }
+    ]
+  },
+  {
+    "id": 119437,
+    "addresses": [
+      {
+        "latitude": 40.738815029741666,
+        "longitude": -74.00610633194434,
+        "address": "53"
+      }
+    ]
+  },
+  {
+    "id": 119459,
+    "addresses": [
+      {
+        "latitude": 40.73867107575533,
+        "longitude": -74.00574088096634,
+        "address": "54"
+      }
+    ]
+  },
+  {
+    "id": 119468,
+    "addresses": [
+      {
+        "latitude": 40.73868428566333,
+        "longitude": -74.00691904127599,
+        "address": "72"
+      }
+    ]
+  },
+  {
+    "id": 119470,
+    "addresses": [
+      {
+        "latitude": 40.738582924953995,
+        "longitude": -74.00653799995776,
+        "address": "828"
+      }
+    ]
+  },
+  {
+    "id": 119478,
+    "addresses": [
+      {
+        "latitude": 40.73855421012366,
+        "longitude": -74.00565320715266,
+        "address": "633"
+      }
+    ]
+  },
+  {
+    "id": 119485,
+    "addresses": [
+      {
+        "latitude": 40.738498669276,
+        "longitude": -74.00819823145866,
+        "address": "794"
+      }
+    ]
+  },
+  {
+    "id": 119488,
+    "addresses": [
+      {
+        "latitude": 40.73847813356633,
+        "longitude": -74.005662502573,
+        "address": "631"
+      }
+    ]
+  },
+  {
+    "id": 119497,
+    "addresses": [
+      {
+        "latitude": 40.7384241516025,
+        "longitude": -74.00638343766325,
+        "address": "815"
+      }
+    ]
+  },
+  {
+    "id": 119500,
+    "addresses": [
+      {
+        "latitude": 40.738422458018,
+        "longitude": -74.00567516684534,
+        "address": "629"
+      }
+    ]
+  },
+  {
+    "id": 119510,
+    "addresses": [
+      {
+        "latitude": 40.73835522268067,
+        "longitude": -74.0063906461,
+        "address": "813"
+      }
+    ]
+  },
+  {
+    "id": 119515,
+    "addresses": [
+      {
+        "latitude": 40.738288366130334,
+        "longitude": -74.00821072049433,
+        "address": "786"
+      }
+    ]
+  },
+  {
+    "id": 119516,
+    "addresses": [
+      {
+        "latitude": 40.738282276749004,
+        "longitude": -74.00654229115526,
+        "address": "818"
+      }
+    ]
+  },
+  {
+    "id": 119523,
+    "addresses": [
+      {
+        "latitude": 40.738184678332665,
+        "longitude": -74.00708243250834,
+        "address": "75"
+      }
+    ]
+  },
+  {
+    "id": 119641,
+    "addresses": [
+      {
+        "latitude": 40.737583450976665,
+        "longitude": -74.00760993361467,
+        "address": "359"
+      },
+      {
+        "latitude": 40.737606653372666,
+        "longitude": -74.00760971009733,
+        "address": "115"
+      }
+    ]
+  },
+  {
+    "id": 119643,
+    "addresses": [
+      {
+        "latitude": 40.737576676553,
+        "longitude": -74.0071195364,
+        "address": "345"
+      },
+      {
+        "latitude": 40.737602758080335,
+        "longitude": -74.00711975991733,
+        "address": "103"
+      }
+    ]
+  },
+  {
+    "id": 119649,
+    "addresses": [
+      {
+        "latitude": 40.73757650719234,
+        "longitude": -74.00704242289034,
+        "address": "343"
+      },
+      {
+        "latitude": 40.737600725754,
+        "longitude": -74.00703862309467,
+        "address": "101"
+      }
+    ]
+  },
+  {
+    "id": 119650,
+    "addresses": [
+      {
+        "latitude": 40.737602249999,
+        "longitude": -74.00697246193867,
+        "address": "99"
+      }
+    ]
+  },
+  {
+    "id": 119662,
+    "addresses": [
+      {
+        "latitude": 40.737459648274665,
+        "longitude": -74.00827959179901,
+        "address": "768"
+      }
+    ]
+  },
+  {
+    "id": 119663,
+    "addresses": [
+      {
+        "latitude": 40.73748352815733,
+        "longitude": -74.00600753724568,
+        "address": "11"
+      },
+      {
+        "latitude": 40.73744359184233,
+        "longitude": -74.00584238983134,
+        "address": "611"
+      }
+    ]
+  },
+  {
+    "id": 119714,
+    "addresses": [
+      {
+        "latitude": 40.7400344768715,
+        "longitude": -74.00743444450211,
+        "address": "28"
+      }
+    ]
+  },
+  {
+    "id": 119669,
+    "addresses": [
+      {
+        "latitude": 40.73748606857,
+        "longitude": -74.00741904973967,
+        "address": "110"
+      },
+      {
+        "latitude": 40.737509101638665,
+        "longitude": -74.00742083787934,
+        "address": "350"
+      }
+    ]
+  },
+  {
+    "id": 119677,
+    "addresses": [
+      {
+        "latitude": 40.73751272629966,
+        "longitude": -74.007732914463,
+        "address": "360"
+      }
+    ]
+  },
+  {
+    "id": 119679,
+    "addresses": [
+      {
+        "latitude": 40.73748302007467,
+        "longitude": -74.00668501853933,
+        "address": "92"
+      }
+    ]
+  },
+  {
+    "id": 119685,
+    "addresses": [
+      {
+        "latitude": 40.73748884930634,
+        "longitude": -74.00779355317333,
+        "address": "120"
+      },
+      {
+        "latitude": 40.73750883388067,
+        "longitude": -74.00779087096434,
+        "address": "362"
+      }
+    ]
+  },
+  {
+    "id": 119686,
+    "addresses": [
+      {
+        "latitude": 40.73747844733166,
+        "longitude": -74.00622770190233,
+        "address": "5"
+      },
+      {
+        "latitude": 40.737499448074,
+        "longitude": -74.00622256100166,
+        "address": "322"
+      }
+    ]
+  },
+  {
+    "id": 119694,
+    "addresses": [
+      {
+        "latitude": 40.73750029487834,
+        "longitude": -74.00635980069633,
+        "address": "326"
+      }
+    ]
+  },
+  {
+    "id": 119723,
+    "addresses": [
+      {
+        "latitude": 40.73713566008625,
+        "longitude": -74.00657169520875,
+        "address": "788"
+      }
+    ]
+  },
+  {
+    "id": 119726,
+    "addresses": [
+      {
+        "latitude": 40.737095690707,
+        "longitude": -74.00641791522499,
+        "address": "785"
+      }
+    ]
+  },
+  {
+    "id": 119727,
+    "addresses": [
+      {
+        "latitude": 40.73709586006867,
+        "longitude": -74.00590270757665,
+        "address": "599"
+      }
+    ]
+  },
+  {
+    "id": 119752,
+    "addresses": [
+      {
+        "latitude": 40.73696340137567,
+        "longitude": -74.00592263460332,
+        "address": "595"
+      }
+    ]
+  },
+  {
+    "id": 119754,
+    "addresses": [
+      {
+        "latitude": 40.7368964333415,
+        "longitude": -74.0059346702325,
+        "address": "593"
+      }
+    ]
+  },
+  {
+    "id": 119761,
+    "addresses": [
+      {
+        "latitude": 40.73993413434733,
+        "longitude": -74.00720424950167,
+        "address": "22"
+      }
+    ]
+  },
+  {
+    "id": 119779,
+    "addresses": [
+      {
+        "latitude": 40.7367718065975,
+        "longitude": -74.0059580443415,
+        "address": "589"
+      }
+    ]
+  },
+  {
+    "id": 119794,
+    "addresses": [
+      {
+        "latitude": 40.736668220085996,
+        "longitude": -74.00908559560766,
+        "address": "4"
+      }
+    ]
+  },
+  {
+    "id": 119837,
+    "addresses": [
+      {
+        "latitude": 40.736339892330804,
+        "longitude": -74.00776916742319,
+        "address": "115"
+      }
+    ]
+  },
+  {
+    "id": 119821,
+    "addresses": [
+      {
+        "latitude": 40.736495596712004,
+        "longitude": -74.008182696998,
+        "address": "739"
+      }
+    ]
+  },
+  {
+    "id": 119806,
+    "addresses": [
+      {
+        "latitude": 40.7366048105806,
+        "longitude": -74.0081729739904,
+        "address": "743"
+      }
+    ]
+  },
+  {
+    "id": 119796,
+    "addresses": [
+      {
+        "latitude": 40.739859956991666,
+        "longitude": -74.00702834129333,
+        "address": "16"
+      }
+    ]
+  },
+  {
+    "id": 119805,
+    "addresses": [
+      {
+        "latitude": 40.73664099499167,
+        "longitude": -74.00597705483267,
+        "address": "585"
+      }
+    ]
+  },
+  {
+    "id": 119811,
+    "addresses": [
+      {
+        "latitude": 40.73658760329,
+        "longitude": -74.00666959583766,
+        "address": "774"
+      }
+    ]
+  },
+  {
+    "id": 119814,
+    "addresses": [
+      {
+        "latitude": 40.73988485214067,
+        "longitude": -74.007095173001,
+        "address": "18"
+      }
+    ]
+  },
+  {
+    "id": 119822,
+    "addresses": [
+      {
+        "latitude": 40.736454145018335,
+        "longitude": -74.00693647563467,
+        "address": "93"
+      }
+    ]
+  },
+  {
+    "id": 119832,
+    "addresses": [
+      {
+        "latitude": 40.736410279868004,
+        "longitude": -74.00837659835832,
+        "address": "738"
+      }
+    ]
+  },
+  {
+    "id": 119829,
+    "addresses": [
+      {
+        "latitude": 40.73640604577833,
+        "longitude": -74.00729700922966,
+        "address": "103"
+      },
+      {
+        "latitude": 40.736394205401005,
+        "longitude": -74.00738007389032,
+        "address": "105"
+      }
+    ]
+  },
+  {
+    "id": 119836,
+    "addresses": [
+      {
+        "latitude": 40.73638182678233,
+        "longitude": -74.00818794965734,
+        "address": "735"
+      }
+    ]
+  },
+  {
+    "id": 119853,
+    "addresses": [
+      {
+        "latitude": 40.739762281546,
+        "longitude": -74.006805550307,
+        "address": "10"
+      }
+    ]
+  },
+  {
+    "id": 119854,
+    "addresses": [
+      {
+        "latitude": 40.739736158526334,
+        "longitude": -74.00673441588867,
+        "address": "8"
+      }
+    ]
+  },
+  {
+    "id": 119862,
+    "addresses": [
+      {
+        "latitude": 40.73945960106767,
+        "longitude": -74.00662645697601,
+        "address": "1"
+      }
+    ]
+  },
+  {
+    "id": 119755,
+    "addresses": [
+      {
+        "latitude": 40.736919469494,
+        "longitude": -74.007742702961,
+        "address": "25"
+      }
+    ]
+  },
+  {
+    "id": 119797,
+    "addresses": [
+      {
+        "latitude": 40.7366619197852,
+        "longitude": -74.00817042589159,
+        "address": "745"
+      }
+    ]
+  },
+  {
+    "id": 119757,
+    "addresses": [
+      {
+        "latitude": 40.736879889518605,
+        "longitude": -74.00814963877221,
+        "address": "753"
+      }
+    ]
+  },
+  {
+    "id": 119780,
+    "addresses": [
+      {
+        "latitude": 40.7367723782815,
+        "longitude": -74.00815801385866,
+        "address": "749"
+      }
+    ]
+  },
+  {
+    "id": 119729,
+    "addresses": [
+      {
+        "latitude": 40.7370268027485,
+        "longitude": -74.007794111967,
+        "address": "32"
+      }
+    ]
+  },
+  {
+    "id": 119741,
+    "addresses": [
+      {
+        "latitude": 40.737026358173125,
+        "longitude": -74.00746176950625,
+        "address": "22"
+      },
+      {
+        "latitude": 40.73702879275201,
+        "longitude": -74.00752231478701,
+        "address": "24"
+      },
+      {
+        "latitude": 40.73702707493743,
+        "longitude": -74.007401072553,
+        "address": "20"
+      },
+      {
+        "latitude": 40.737026252321996,
+        "longitude": -74.00691635906699,
+        "address": "6"
+      },
+      {
+        "latitude": 40.73702881694658,
+        "longitude": -74.00698600070814,
+        "address": "8"
+      }
+    ]
+  },
+  {
+    "id": 119795,
+    "addresses": [
+      {
+        "latitude": 40.73691856219614,
+        "longitude": -74.00774257523672,
+        "address": "25"
+      },
+      {
+        "latitude": 40.736772378269286,
+        "longitude": -74.00815679825915,
+        "address": "749"
+      },
+      {
+        "latitude": 40.736661868976334,
+        "longitude": -74.00816906243533,
+        "address": "745"
+      }
+    ]
+  },
+  {
+    "id": 119773,
+    "addresses": [
+      {
+        "latitude": 40.736915389386674,
+        "longitude": -74.00748399518366,
+        "address": "19"
+      }
+    ]
+  },
+  {
+    "id": 119815,
+    "addresses": [
+      {
+        "latitude": 40.73655161361716,
+        "longitude": -74.00817476212983,
+        "address": "741"
+      }
+    ]
+  },
+  {
+    "id": 119732,
+    "addresses": [
+      {
+        "latitude": 40.7370265487055,
+        "longitude": -74.00767391547527,
+        "address": "28"
+      }
+    ]
+  },
+  {
+    "id": 119770,
+    "addresses": [
+      {
+        "latitude": 40.73691553182075,
+        "longitude": -74.00789402425275,
+        "address": "29"
+      }
+    ]
+  },
+  {
+    "id": 119784,
+    "addresses": [
+      {
+        "latitude": 40.7367122205562,
+        "longitude": -74.0081607699392,
+        "address": "747"
+      }
+    ]
+  }
+]
