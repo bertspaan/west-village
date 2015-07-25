@@ -46,7 +46,7 @@ var geojsonLayers = [
     url: 'results/results.geojson',
     options: {}
   }
-]
+];
 
 geojsonLayers.forEach(function(layer) {
   d3.json(baseUrl + '/' + layer.url, function(json) {
