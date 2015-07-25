@@ -184,7 +184,7 @@ And afterwards, create a simple Leaflet map, and load the GeoJSON files with D3.
 
 ## Finding errors
 
-Although using only ST_Distance will find the correct street for almost all addresses, it's easy to spot addresses on the resulting map where the current naive approach will fint the wrong street. The image below shows to addresses on West Street for which an incorrect - although closest - street is found:
+Although using only ST_Distance will find the correct street for almost all addresses, it's easy to spot addresses on the resulting map where the current naive approach will fint the wrong street. The image below shows to addresses on West Street for which an incorrect — although closest — street is found:
 
 ![](img/errors.png)
 
