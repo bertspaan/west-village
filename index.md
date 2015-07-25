@@ -5,7 +5,7 @@
 
 Finding the closest street for a set of addresses seems like something PostGIS can easily do. Let's try!
 
-It always helps to first view the files in QGIS, see where the streets and addresses are located, and think of an algorithm to link addresses to streets. To do this, we would need to convert `address.json` to something QGIS understands.
+It always helps to first view the files in QGIS, see where the streets and addresses are located, and think of an algorithm to link addresses to streets. To do this, we would need to convert `addresses.json` to something QGIS understands.
 
 ## Convert `addresses.json` to GeoJSON
 
@@ -101,6 +101,8 @@ We can now use the SQL query from the previous section to create a new view cont
     ) AS a_cl
     WHERE a_cl.a_fid = a.ogc_fid AND a_cl.cl_fid = cl.ogc_fid
 
+![](img/postgis.png)
+
 ## Export view to GeoJSON file
 
 With ogr2ogr, export the view to a GeoJSON file:
@@ -170,7 +172,7 @@ And afterwards, create a simple Leaflet map, and load the GeoJSON files with D3.
         url: 'results/results.geojson',
         options: {}
       }
-    ]
+    ];
 
     geojsonLayers.forEach(function(layer) {
       d3.json(baseUrl + '/' + layer.url, function(json) {
@@ -178,8 +180,18 @@ And afterwards, create a simple Leaflet map, and load the GeoJSON files with D3.
       });
     });
 
-
 <div id="map"></div>
+
+## Finding errors
+
+Although using only ST_Distance will find the correct street for almost all addresses, it's easy to spot addresses on the resulting map where the current naive approach will fint the wrong street. The image below shows to addresses on West Street for which an incorrect - although closest - street is found:
+
+![](img/errors.png)
+
+## Possible improvements
+
+1. Group addresses by house number similarity and distance:
+2. Find groups of addresses on a line:
 
 ## GitHub
 
